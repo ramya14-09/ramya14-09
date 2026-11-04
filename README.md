@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**ramya14-09/ramya14-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 👋 Hi, I'm Ramya Palaparthi!
 💻 Aspiring Software Engineer
 Passionate about developing innovative software solutions, building full-stack applications, solving problems and exploring modern technologies.
@@ -118,4 +112,3 @@ Tech Stack: Python | FastAPI | Scikit-learn | SQLite | HTML | CSS | JavaScript
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
