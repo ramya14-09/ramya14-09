@@ -62,16 +62,6 @@ I'm a Computer Science undergraduate passionate about software development, prob
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**Core Computer Science**
-
-Data Structures & Algorithms | OOP | DBMS | Operating Systems | Computer Networks | Software Design | System Design
-
-**Tools & Platforms**
-
-Git | GitHub | VS Code
-
----
-
 ## <u>🎓 Education</u>
 
 **Vasireddy Venkatadri Institute of Technology**
