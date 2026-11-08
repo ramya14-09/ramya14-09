@@ -75,67 +75,67 @@ I'm a Computer Science undergraduate passionate about software development, prob
 
 ### ☁️ Cloud & DevOps
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=aws" width="50"/><br/>AWS
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=docker" width="50"/><br/>Docker
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=jenkins" width="50"/><br/>Jenkins
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=terraform" width="50"/><br/>Terraform
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=linux" width="50"/><br/>Linux
 </p>
 
 ### 🔧 Tools & Platforms
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>Git
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=github" width="50"/><br/>GitHub
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>VS Code
 </p>
 
 ### 🧠 Core Computer Science
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/DSA-007ACC?style=for-the-badge"/><br/>Data Structures & Algorithms
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge"/><br/>Object-Oriented Programming
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/><br/>Database Management Systems
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/OS-2E8B57?style=for-the-badge"/><br/>Operating Systems
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/CN-FF8C00?style=for-the-badge"/><br/>Computer Networks
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Software_Design-7952B3?style=for-the-badge"/><br/>Software Design
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/System_Design-333333?style=for-the-badge"/><br/>System Design
 </p>
 
