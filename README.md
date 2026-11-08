@@ -21,55 +21,55 @@ I'm a Computer Science undergraduate passionate about software development, prob
 
 ### 💻 Programming Languages
 
-<p align="center">
+<p align="left">
 <a href="#"><img src="https://skillicons.dev/icons?i=java" width="50"/></a><br/>Java
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>Python
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=js" width="50"/><br/>JavaScript
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=c" width="50"/><br/>C
 </p>
 
 ### 🌐 Web Development
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html" width="50"/><br/>HTML5
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=css" width="50"/><br/>CSS3
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>React.js
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>Node.js
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=express" width="50"/><br/>Express.js
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>Tailwind CSS
 </p>
 
 ### 🗄️ Databases
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>MySQL
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br/>MongoDB
 </p>
 
