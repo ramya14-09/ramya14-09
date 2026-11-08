@@ -20,21 +20,47 @@ I'm a Computer Science undergraduate passionate about software development, prob
 
 ## <u>🛠️ Technical Skills</u>
 
-**Programming Languages**
+### 💻 Programming Languages
 
-Java | Python | JavaScript | C | SQL
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,js,c,mysql" />
+</p>
 
-**Web Development**
+### 🌐 Web Development
 
-HTML5 | CSS3 | React.js | Node.js | Express.js | Tailwind CSS
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind" />
+</p>
 
-**Databases**
+### 🗄️ Databases
 
-MySQL | MongoDB
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-**Cloud & DevOps**
+### ☁️ Cloud & DevOps
 
-AWS (EC2, S3, IAM, VPC, RDS, CloudWatch) | Docker | Jenkins | Terraform | Linux
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux" />
+</p>
+
+### 🧠 Core Computer Science
+
+<p align="left">
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Operating%20Systems-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Networks-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software%20Design-7952B3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-333333?style=for-the-badge" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 **Core Computer Science**
 
